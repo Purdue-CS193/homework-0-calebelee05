@@ -34,4 +34,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
+# Caleb Lee's First CS193 Homework
+- CS193 is only 1 credit
+- I can learn useful tools that I'll be using in other CS courses and in future careers
+
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
